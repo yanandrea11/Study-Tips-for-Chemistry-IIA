@@ -14,10 +14,17 @@ Chemistry IIA can be overwhelming because of the amount of content, the problem 
 3. Apply them in your weekly study routine and adjust as needed.
 
 ## Helpful Learning Resources
+feature-resources
 - **PhET Interactive Simulations (Chemistry):** Visual tools for understanding solution concentration, molarity, and gas properties.
 - **Khan Academy – Chemistry:** Step-by-step video lessons and practice sets for stoichiometry and limiting reactants.
 - **LibreTexts Chemistry:** Detailed reference guides and worked examples for dilution formulas ($M_1V_1 = M_2V_2$) and unit conversions.
 - **Self-Made Formula & Unit Cheat Sheet:** Keep a dedicated notebook page summarizing molarity, molality, mass percent, and ppm formulas for quick review.
+
+- [PhET Interactive Simulations (Chemistry)](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry) *(Recommended for visualizing solution concentration, molarity, and gas behavior).*
+- [Khan Academy – Chemistry](https://www.khanacademy.org/science/chemistry) *(Recommended for better understanding of core concepts, stoichiometry, and limiting reactants).*
+- [LibreTexts Chemistry](https://chem.libretexts.org/) *(Recommended for reviewing step-by-step dilution formulas like $M_1V_1 = M_2V_2$ and unit conversions).*
+- **Self-Made Formula & Unit Cheat Sheet** *(Recommended for quick memorization of molarity, molality, mass percent, and ppm formulas before quizzes).*
+main
 
 ## Contributors
 - Developer A: *Iannah Gonzales*
