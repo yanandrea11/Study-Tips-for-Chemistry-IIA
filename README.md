@@ -1,6 +1,6 @@
 # Study-Tips-for-Chemistry-IIA
 
-A simple collection of study tips and resources to help students prepare for and succeed in Chemistry IIA.
+This is a simple collection of study tips for Chemistry IIA.
 
 ## What is this project?
 This repository is a student-made guide with practical study strategies for Chemistry IIA. It is written collaboratively by two students using Git and GitHub.
